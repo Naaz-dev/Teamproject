@@ -10,7 +10,7 @@
     <table>
         <tr>
             <th>Id</th>
-            <th>naam</th>
+            <th>Student</th>
             <th>klas</th>
             <th>Tickets</th>
         </tr>
